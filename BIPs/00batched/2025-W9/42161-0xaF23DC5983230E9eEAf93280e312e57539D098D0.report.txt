@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2025-W9/42161-0xaF23DC5983230E9eEAf93280e312e57539D098D0.json`
 MULTISIG: `multisigs/dao (arbitrum:0xaF23DC5983230E9eEAf93280e312e57539D098D0)`
-COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+COMMIT: `5918b8dbdae8b9feb7887c69676d89d3c4487313`
 CHAIN(S): `arbitrum`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/3ebcb0ef-d617-4f73-9891-b562613e8f48)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/8b4d4f83-0ba0-40ca-b9c1-a0ae7239f8b5)
 
 ```
 +-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+

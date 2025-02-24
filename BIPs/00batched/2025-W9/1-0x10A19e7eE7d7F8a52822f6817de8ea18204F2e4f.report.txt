@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2025-W9/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+COMMIT: `5918b8dbdae8b9feb7887c69676d89d3c4487313`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/34e6b38d-39bb-458d-ba8b-d2752a86e174)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/36edf1db-6495-4e9c-a25e-8326f5039968)
 
 ```
 +----------+-------------------------------------------------+------------------------------------------------------------------------+----------------------------+---------+----------+
@@ -14,9 +14,9 @@ TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/34e6b38d-39bb-4
 ```
 FILENAME: `BIPs/00batched/2025-W9/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+COMMIT: `5918b8dbdae8b9feb7887c69676d89d3c4487313`
 CHAIN(S): `mainnet`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/74be6758-b2a2-420e-9c62-c12f49a8503b)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/5af1683f-ac60-4306-bbbd-81b3255588b6)
 
 ```
 +-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+

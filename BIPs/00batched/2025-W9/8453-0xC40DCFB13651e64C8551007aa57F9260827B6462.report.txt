@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2025-W9/8453-0xC40DCFB13651e64C8551007aa57F9260827B6462.json`
 MULTISIG: `multisigs/dao (base:0xC40DCFB13651e64C8551007aa57F9260827B6462)`
-COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+COMMIT: `5918b8dbdae8b9feb7887c69676d89d3c4487313`
 CHAIN(S): `base`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/51382e01-1b82-4962-9e46-3e1d0354e0e7)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/35324a49-097f-4edc-9fcd-375972de92bd)
 
 ```
 +-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+

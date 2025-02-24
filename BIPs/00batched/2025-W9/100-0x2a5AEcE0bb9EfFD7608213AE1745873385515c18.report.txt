@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2025-W9/100-0x2a5AEcE0bb9EfFD7608213AE1745873385515c18.json`
 MULTISIG: `multisigs/dao (gnosis:0x2a5AEcE0bb9EfFD7608213AE1745873385515c18)`
-COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+COMMIT: `5918b8dbdae8b9feb7887c69676d89d3c4487313`
 CHAIN(S): `gnosis`
-TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/501316bc-bb67-4c51-8799-9cc0aee1d24c)
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/443bea2c-0afb-4ecc-8b10-a43fa101c3db)
 
 ```
 +-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
