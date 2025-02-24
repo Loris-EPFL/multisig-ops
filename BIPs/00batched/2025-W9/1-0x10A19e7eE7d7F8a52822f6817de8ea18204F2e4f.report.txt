@@ -1,0 +1,30 @@
+FILENAME: `BIPs/00batched/2025-W9/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
+MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
+COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+CHAIN(S): `mainnet`
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/34e6b38d-39bb-458d-ba8b-d2752a86e174)
+
+```
++----------+-------------------------------------------------+------------------------------------------------------------------------+----------------------------+---------+----------+
+| function | token_symbol                                    | recipient                                                              | amount                     |   bip   | tx_index |
++----------+-------------------------------------------------+------------------------------------------------------------------------+----------------------------+---------+----------+
+| transfer | USDC:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 | multisigs/foundation_opco:0x3B8910F378034FD6E103Df958863e5c684072693   | 35200.0 (RAW: 35200000000) | BIP-786 |    0     |
+| transfer | USDC:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 | payees/hypernative_payments:0x5CA24e2A586834A7B96216D68b26A82405e3DC15 | 80000.0 (RAW: 80000000000) | BIP-775 |    3     |
++----------+-------------------------------------------------+------------------------------------------------------------------------+----------------------------+---------+----------+
+```
+FILENAME: `BIPs/00batched/2025-W9/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
+MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
+COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+CHAIN(S): `mainnet`
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/74be6758-b2a2-420e-9c62-c12f49a8503b)
+
+```
++-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
+| function              | caller_name         | caller_address                             | fx_paths                                                                               | action_ids                                                         |   bip   | tx_index |
++-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
+| Authorizer/grantRoles | multisigs/maxi_omni | 0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e | 20250121-v3-stable-surge/StablePool/startAmplificationParameterUpdate(uint256,uint256) | 0x3050dfbb6294dc29c5cae13acb241fddea61d345d9b8c809f216c8259b013ff8 | BIP-787 |    1     |
+|                       |                     |                                            | 20250121-v3-stable-surge/StablePool/stopAmplificationParameterUpdate()                 | 0x866d7d17a9b007d202e4da84f38a0bfbb310db8184a4f1d2e6de3c8e78ecd1e0 |         |          |
+| Authorizer/grantRoles | multisigs/maxi_omni | 0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e | 20250121-v3-stable-surge/StableSurgeHook/setMaxSurgeFeePercentage(address,uint256)     | 0x2f27aa67b6bf44b4441ea2656c22e09252261845a98dc577a6fc06b6526f8bcc | BIP-778 |    2     |
+|                       |                     |                                            | 20250121-v3-stable-surge/StableSurgeHook/setSurgeThresholdPercentage(address,uint256)  | 0x66c657ea0d5ce1dc0286795937131c61620bb6ccd0f126fbfe3799d8b89a9753 |         |          |
++-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
+```

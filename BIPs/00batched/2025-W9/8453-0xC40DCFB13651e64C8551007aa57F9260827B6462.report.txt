@@ -1,0 +1,16 @@
+FILENAME: `BIPs/00batched/2025-W9/8453-0xC40DCFB13651e64C8551007aa57F9260827B6462.json`
+MULTISIG: `multisigs/dao (base:0xC40DCFB13651e64C8551007aa57F9260827B6462)`
+COMMIT: `d70cc7c53b801ca5ef95f822e183322fe49c9cee`
+CHAIN(S): `base`
+TENDERLY: [`🟩 SUCCESS`](https://www.tdly.co/shared/simulation/51382e01-1b82-4962-9e46-3e1d0354e0e7)
+
+```
++-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
+| function              | caller_name         | caller_address                             | fx_paths                                                                               | action_ids                                                         |   bip   | tx_index |
++-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
+| Authorizer/grantRoles | multisigs/maxi_omni | 0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e | 20250121-v3-stable-surge/StableSurgeHook/setMaxSurgeFeePercentage(address,uint256)     | 0xe81edd4ccc5901443972e580b5d997ced38f33bd4f7e9bca8829dc5efcca6fed | BIP-778 |    0     |
+|                       |                     |                                            | 20250121-v3-stable-surge/StableSurgeHook/setSurgeThresholdPercentage(address,uint256)  | 0x4a7d099f7d634af69cf552b5b1c76ed8d44074051cbca5a59b842154288b96f1 |         |          |
+| Authorizer/grantRoles | multisigs/maxi_omni | 0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e | 20250121-v3-stable-surge/StablePool/startAmplificationParameterUpdate(uint256,uint256) | 0xbf865f1c6f8d104fabfc55638d1622f92901741c27314f329670c51b54f3eded | BIP-787 |    1     |
+|                       |                     |                                            | 20250121-v3-stable-surge/StablePool/stopAmplificationParameterUpdate()                 | 0x1a357d5b1643481255960a2981adcdd96069c98aff413a5e8387d5e199d34a64 |         |          |
++-----------------------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------+----------+
+```
